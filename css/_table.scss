@@ -1,0 +1,13 @@
+.table {
+	width:200px;
+	height:200px;
+	border:solid 3px $default-blue;
+	border-radius:15px;
+}
+
+.table tr th {
+	border:solid 3px $default-blue;
+	border-radius:15px;
+	height:50px;
+	background-color:$default-blue;
+}

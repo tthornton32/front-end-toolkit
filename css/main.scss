@@ -1,0 +1,26 @@
+$default-blue: rgb(17, 128, 155); 
+$default-font: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+$default-beige: rgb(245, 245, 218);
+
+@import 'first_button';
+@import 'drop_down';
+@import 'text_box';
+@import 'table';
+@import 'column';
+@import 'textarea';
+@import 'multiple_selects';
+@import 'headings';
+
+label{
+	font-family:$default-font;
+}
+
+
+
+
+
+
+
+
+
+

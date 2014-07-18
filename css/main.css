@@ -1,0 +1,84 @@
+.first_button {
+  -webkit-appearance: none;
+  width: 70px;
+  height: 32px;
+  border-radius: 15px;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  background-color: #11809b;
+  color: #ccc;
+  font-weight: 800; }
+
+.drop_down {
+  width: 90px;
+  height: 22px;
+  background-color: #ccc;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-weight: 800;
+  width: 100px; }
+
+.text_box {
+  border-radius: 20px;
+  width: 220px;
+  height: 24px;
+  background-color: #f5f5da;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  border-width: 2px;
+  border-color: #ccc;
+  font-weight: 800; }
+
+.table {
+  width: 200px;
+  height: 200px;
+  border: solid 3px #11809b;
+  border-radius: 15px; }
+
+.table tr th {
+  border: solid 3px #11809b;
+  border-radius: 15px;
+  height: 50px;
+  background-color: #11809b; }
+
+.column {
+  width: 200px;
+  height: 200px;
+  border: solid 3px #11809b; }
+
+#column_line {
+  border: solid 2px #11809b;
+  height: 198px;
+  width: 50%; }
+
+.textarea {
+  width: 250px;
+  height: 135px;
+  background-color: #f5f5da;
+  border-width: 2px;
+  border-color: #ccc;
+  font-weight: 800; }
+
+.multiple_selects {
+  width: 75px;
+  height: 65px;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-weight: 800;
+  background-color: #ccc;
+  border-radius: 10px;
+  padding: 5px; }
+
+.main_heading {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-size: 40px;
+  font-weight: 900; }
+
+.second_heading {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-size: 30px;
+  font-weight: 800; }
+
+.third_heading {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-size: 20px;
+  font-weight: 700; }
+
+label {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; }
